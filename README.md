@@ -3,6 +3,13 @@ AuroraQty
 
 Shopping Cart Qty Input
 
+
+###Benefits
+* Adds + / - buttons to increment or decrement qty value.
+* Do not allows to type not numeric values in qty input.
+* Generates valid html by itself.
+
+
 ##Installation
 
 ###Step 1: Link plugin file
